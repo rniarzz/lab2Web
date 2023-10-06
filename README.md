@@ -102,7 +102,7 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 Buatlah file baru dengan nama **style_eksternal.css** kemudian buatlah deklarasi CSS seperti berikut.
 
-```html
+```css
 nav {
     background: #20A759;
     color:#fff;
@@ -139,7 +139,7 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file **style_eksternal.css**, tambahkan kode berikut.
 
-```html
+```css
  /* ID Selector */
 #intro {
     background: #418fb1;
@@ -174,8 +174,9 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 ## Menjawab Pertanyaan
 
-1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
-dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+<b> 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
+dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini. </br>
+Jawab: </b>
 
 ![Screenshot (273)](https://github.com/rniarzz/lab2Web/assets/115542704/e7f87989-640c-474e-985f-765ad23b5d6b)
 
