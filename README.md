@@ -75,3 +75,8 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
             }
         </style>
     </header>
+
+Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat
+hasilnya.
+
+![Screenshot (268)](https://github.com/rniarzz/lab2Web/assets/115542704/5332b414-75f1-41f7-b195-763df77235cb)
