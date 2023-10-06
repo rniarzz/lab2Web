@@ -163,4 +163,24 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 ![Screenshot (272)](https://github.com/rniarzz/lab2Web/assets/115542704/9c42b084-a6c1-4e1f-9343-9742cc5d707c)
 
+1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
+dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+```python
+header{
+    background-image: url(d:/mdinalayubi/ayubi.jpg);
+    background-position: center center;
+    background-size: 630px;
+    background-repeat: no-repeat;
+    border: 4px solid #000;
+}
+```
+![gambar 6](gambar/web2lab.6.png)
+2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+* Kalau h1 menggunakan internal dan inline pada penggunaan style nya sedangkan intro menggunakan eksternal css style nya
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+* Semuanya akan tampil tergantung penyebutnya contohnya pada gambar no 1
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( p id="paragraf-1" class="text-paragraf" )
+* Di praktek Hari ini keduanya tampil tapi berbeda
+
+
 
