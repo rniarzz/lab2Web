@@ -79,3 +79,12 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
 ![Screenshot (268)](https://github.com/rniarzz/lab2Web/assets/115542704/5332b414-75f1-41f7-b195-763df77235cb)
+
+
+## 3. Menambahkan Inline CSS
+
+Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
+
+```
+<p style="text-align: center; color: #ccd8ef;">
+```
