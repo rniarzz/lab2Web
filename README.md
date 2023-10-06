@@ -92,3 +92,34 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 ![Screenshot (269)](https://github.com/rniarzz/lab2Web/assets/115542704/d746740c-6c77-43c1-84bf-63c374b94c3a)
 
+
+## 4. Membuat CSS Eksternal
+
+Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
+
+```
+nav {
+    background: #20A759;
+    color:#fff;
+    padding: 10px;
+    }
+    nav a {
+    color: #fff;
+    text-decoration: none;
+    padding:10px 20px;
+    }
+    nav .active,
+    nav a:hover {
+    background: #0B6B3A;
+    }
+```
+
+Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
+
+```
+    <head>
+        <!-- menyisipkan css eksternal -->
+        <link rel="stylesheet" href="style_eksternal.css" type="text/css">
+    <head>
+
+![Screenshot (271)](https://github.com/rniarzz/lab2Web/assets/115542704/f4184d07-663b-4ab1-92de-07372568bea7)
