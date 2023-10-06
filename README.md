@@ -174,7 +174,8 @@ header{
     border: 4px solid #000;
 }
 ```
-![gambar 6](gambar/web2lab.6.png)
+
+![Screenshot (273)](https://github.com/rniarzz/lab2Web/assets/115542704/e7f87989-640c-474e-985f-765ad23b5d6b)
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 * Kalau h1 menggunakan internal dan inline pada penggunaan style nya sedangkan intro menggunakan eksternal css style nya
