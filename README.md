@@ -88,7 +88,7 @@ Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
 ```
 <p style="text-align: center; color: #ccd8ef;">
 ```
-Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
+Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
 ![Screenshot (269)](https://github.com/rniarzz/lab2Web/assets/115542704/d746740c-6c77-43c1-84bf-63c374b94c3a)
 
