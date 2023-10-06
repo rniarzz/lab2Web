@@ -195,5 +195,7 @@ Jawab: </b>
 
 Di praktek Hari ini keduanya tampil tapi berbeda
 
+<h1 <p align="center"><b>======== Sekian Terima Kasih ==========</b></p></h1>
+
 
 
