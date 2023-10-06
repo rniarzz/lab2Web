@@ -165,15 +165,6 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
-```python
-header{
-    background-image: url(C:/Users/Asus/Pictures/milik rini/DSC04430.JPG);
-    background-position: center center;
-    background-size: 630px;
-    background-repeat: no-repeat;
-    border: 4px solid #000;
-}
-```
 
 ![Screenshot (273)](https://github.com/rniarzz/lab2Web/assets/115542704/e7f87989-640c-474e-985f-765ad23b5d6b)
 
