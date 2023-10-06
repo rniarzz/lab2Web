@@ -86,7 +86,7 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 ## 3. Menambahkan Inline CSS
 
-Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
+Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.
 
 ```html
 <p style="text-align: center; color: #ccd8ef;">
@@ -180,12 +180,20 @@ Jawab: </b>
 
 ![Screenshot (273)](https://github.com/rniarzz/lab2Web/assets/115542704/e7f87989-640c-474e-985f-765ad23b5d6b)
 
-2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
-* Kalau h1 menggunakan internal dan inline pada penggunaan style nya sedangkan intro menggunakan eksternal css style nya
-3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
-* Semuanya akan tampil tergantung penyebutnya contohnya pada gambar no 1
-4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( p id="paragraf-1" class="text-paragraf" )
-* Di praktek Hari ini keduanya tampil tapi berbeda
+<b> 2. Apa perbedaan pendeklarasian CSS elemen `h1 {...}` dengan `#intro h1 {...}`? berikan penjelasannya! </br>
+Jawab: </b>
+
+Kalau `h1 {...}` menggunakan internal dan inline pada penggunaan style nya sedangkan `#intro h1 {...}` menggunakan eksternal css style nya
+
+<b> 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! </br>
+Jawab: </b>
+
+Semuanya akan tampil tergantung penyebutnya contohnya pada gambar no. 1
+
+<b> 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! `( p id="paragraf-1" class="text-paragraf" )` </br>
+Jawab: </b>
+
+Di praktek Hari ini keduanya tampil tapi berbeda
 
 
 
