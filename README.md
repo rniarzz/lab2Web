@@ -45,12 +45,13 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 ![Screenshot (267)](https://github.com/rniarzz/lab2Web/assets/115542704/48974aa1-aab6-4e8e-8029-0974054f2821)
 
+---
 
 ## 2. Mendeklarasikan CSS Internal
 
 Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 
-``html
+```html
     <head>
         <title>CSS Dasar</title>
         <style>
@@ -75,29 +76,33 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
             }
         </style>
     </header>
+```
 
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
 ![Screenshot (268)](https://github.com/rniarzz/lab2Web/assets/115542704/5332b414-75f1-41f7-b195-763df77235cb)
 
+---
 
 ## 3. Menambahkan Inline CSS
 
 Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
 
-```
+```html
 <p style="text-align: center; color: #ccd8ef;">
 ```
+
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
 ![Screenshot (269)](https://github.com/rniarzz/lab2Web/assets/115542704/d746740c-6c77-43c1-84bf-63c374b94c3a)
 
+---
 
 ## 4. Membuat CSS Eksternal
 
-Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
+Buatlah file baru dengan nama **style_eksternal.css** kemudian buatlah deklarasi CSS seperti berikut.
 
-```
+```html
 nav {
     background: #20A759;
     color:#fff;
@@ -114,9 +119,9 @@ nav {
     }
 ```
 
-Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
+Kemudian tambahkan tag `<link>` untuk merujuk file css yang sudah dibuat pada bagian `<head>`
 
-```
+```html
     <head>
         <!-- menyisipkan css eksternal -->
         <link rel="stylesheet" href="style_eksternal.css" type="text/css">
@@ -128,11 +133,13 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 ![Screenshot (271)](https://github.com/rniarzz/lab2Web/assets/115542704/f4184d07-663b-4ab1-92de-07372568bea7)
 
+---
+
 ## 5. Menambahkan CSS Selector
 
-Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut.
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file **style_eksternal.css**, tambahkan kode berikut.
 
-```
+```html
  /* ID Selector */
 #intro {
     background: #418fb1;
@@ -162,6 +169,8 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada fil
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
 ![Screenshot (272)](https://github.com/rniarzz/lab2Web/assets/115542704/9c42b084-a6c1-4e1f-9343-9742cc5d707c)
+
+---
 
 ## Menjawab Pertanyaan
 
