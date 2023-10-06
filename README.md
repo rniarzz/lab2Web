@@ -122,4 +122,6 @@ Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagi
         <link rel="stylesheet" href="style_eksternal.css" type="text/css">
     <head>
 
+```
+
 ![Screenshot (271)](https://github.com/rniarzz/lab2Web/assets/115542704/f4184d07-663b-4ab1-92de-07372568bea7)
