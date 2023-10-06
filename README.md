@@ -75,4 +75,3 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
             }
         </style>
     </header>
-   ```
