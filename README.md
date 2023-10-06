@@ -83,7 +83,7 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 ## 3. Menambahkan Inline CSS
 
-Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
+Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut
 
 ```
 <p style="text-align: center; color: #ccd8ef;">
