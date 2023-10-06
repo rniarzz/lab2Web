@@ -163,7 +163,7 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 ![Screenshot (272)](https://github.com/rniarzz/lab2Web/assets/115542704/9c42b084-a6c1-4e1f-9343-9742cc5d707c)
 
-## Jawab Pertanyaan
+## Menjawab Pertanyaan
 
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
