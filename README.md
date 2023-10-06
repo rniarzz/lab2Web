@@ -127,3 +127,40 @@ Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagi
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
 ![Screenshot (271)](https://github.com/rniarzz/lab2Web/assets/115542704/f4184d07-663b-4ab1-92de-07372568bea7)
+
+## 5. Menambahkan CSS Selector
+
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut.
+
+```
+ /* ID Selector */
+#intro {
+    background: #418fb1;
+    border: 1px solid #099249;
+    min-height: 100px;
+    padding: 10px;
+    }
+    #intro h1 {
+    text-align: left;
+    border: 0;
+    color: #fff;
+    }
+    /* Class Selector */
+    .button {
+    padding: 15px 20px;
+    background: #bebcbd;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    }
+    .btn-primary {
+    background: #E42A42;
+    }
+```
+
+Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
+
+![Screenshot (272)](https://github.com/rniarzz/lab2Web/assets/115542704/9c42b084-a6c1-4e1f-9343-9742cc5d707c)
+
+
