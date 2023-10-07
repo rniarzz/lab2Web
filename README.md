@@ -190,6 +190,18 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini. </br>
 Jawab: </b>
 
+```
+header
+{
+    background-image:Url(C:/Users/Asus/Pictures/milik rini/DSC04430.JPG);
+    background-position: center center;
+    background-size: 630px;
+    background-repeat: no-repeat;
+    border: 4px solid #000;
+}
+
+```
+
 ![Screenshot (273)](https://github.com/rniarzz/lab2Web/assets/115542704/e7f87989-640c-474e-985f-765ad23b5d6b)
 
 <b> 2. Apa perbedaan pendeklarasian CSS elemen `h1 {...}` dengan `#intro h1 {...}`? berikan penjelasannya! </br>
